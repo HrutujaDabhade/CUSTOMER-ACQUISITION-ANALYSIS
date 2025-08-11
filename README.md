@@ -29,4 +29,5 @@ Analyze customer acquisition data to track lead journey, team performance, and t
 - Built worksheets for funnel, manager performance, demographics, and demo impact
 - Combined worksheets into an interactive Tableau dashboard with filters and actions
 
+<img width="1191" height="788" alt="Screenshot 2025-08-11 110452" src="https://github.com/user-attachments/assets/73f065e2-e509-443a-8cf5-56eec05bf5fb" />
 
