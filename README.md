@@ -21,3 +21,12 @@ Analyze customer acquisition data to track lead journey, team performance, and t
 - What are the main reasons for lead dropouts at each stage?
 - How does demo watch percentage and language impact conversion rates?
 - What is the overall lead performance from assignment to conversion?
+
+# Process
+- Cleaned and validated dataset for consistency
+- Removed duplicates and handled missing values
+- Created calculated fields for KPIs in Tableau
+- Built worksheets for funnel, manager performance, demographics, and demo impact
+- Combined worksheets into an interactive Tableau dashboard with filters and actions
+
+
