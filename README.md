@@ -10,3 +10,14 @@ Analyze customer acquisition data to track lead journey, team performance, and t
 - <a href="https://github.com/HrutujaDabhade/CUSTOMER-ACQUISITION-ANALYSIS/blob/main/leads_interaction_details.csv">DataSet</a>
 - <a href="https://github.com/HrutujaDabhade/CUSTOMER-ACQUISITION-ANALYSIS/blob/main/leads_reasons_for_no_interest.csv">DataSet</a>
 - <a href="https://github.com/HrutujaDabhade/CUSTOMER-ACQUISITION-ANALYSIS/blob/main/sales_managers_assigned_leads_details.csv">DataSet</a>
+
+# Questions (KPIs)
+- How many leads were assigned to each sales manager?
+- What is the conversion rate for each sales manager?
+- What is the call success rate of sales managers?
+- What is the average lead response time
+- What is the overall lead success rate through the funnel?
+- What is the demographic breakdown (age, gender, city) of the leads?
+- What are the main reasons for lead dropouts at each stage?
+- How does demo watch percentage and language impact conversion rates?
+- What is the overall lead performance from assignment to conversion?
